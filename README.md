@@ -1,4 +1,4 @@
-# Graph Analyzer - Neo4j Image
+# Graph Analyzer - Neo4j Image
 
 Create a container image that includes the `GDS` plugin
 
